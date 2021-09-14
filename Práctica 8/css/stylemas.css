@@ -1,0 +1,16 @@
+body{
+    background: #fdfbfdf6;
+    font-family: "Century Gothic", sans-serif;
+    text-align: justify; 
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #070707;
+    }
+  
+    h1{
+    text-align: center;
+    }
+    p{
+    text-align: justify;
+    text-align: center;
+    }

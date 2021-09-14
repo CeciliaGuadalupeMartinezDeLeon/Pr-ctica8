@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+body{
+    background-color: black;
+}
+.areaPrincipal{
+    background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-minimalistic-cartoon-hand-drawn-catering-food-background-picture-image_1020545.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    opacity: 0.7;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+
+}
+#encabezado{
+    background: #f8f5f5;
+    height: 240px;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/9c/2c/03/9c2c033174ca07cdc9c928819d22e95e.png");
+    background-repeat: no-repeat;
+    background-size: 180px;
+}
+.piePagina{
+    width: 100px;
+    height: 100px;
+    background: black;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+}
+#menu{
+    height: 40px;
+    position: relative;
+    top: 200px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+li{
+    float: left;
+
+}
+li a{
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #070707;
+}
+#datos{
+    width: 80%;
+    background-color: rgba(241, 160, 54, 0.842);
+   height: auto;
+    margin: auto;
+    opacity: 1;
+    color: #080808;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
